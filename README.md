@@ -1,1 +1,1 @@
-![](pong.screenshot.JPG)
+![](pong_screenshot.JPG)
